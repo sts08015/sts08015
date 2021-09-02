@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sts08015
 - 👀 I’m interested in pwnable
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on anyone :)
+- 💞️ I’m looking to collaborate with anyone :)
 - 📫 How to reach me sts08015@outlook.com
 
 <!---
