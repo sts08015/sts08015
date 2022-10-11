@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sts08015
 - 👀 I’m interested in pwnable, embedded systems, computer architecture
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate with anyone :)
-- 📫 How to reach me sts08015@outlook.com
+- 📫 How to reach me sts08015@korea.ac.kr
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sts08015&show_icons=true&theme=monokai) 
