@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sts08015
-- 👀 I’m interested in pwnable, embedded systems, computer architecture
-- 🌱 I’m currently studying Computer Science
+- 👀 I’m interested in computer architecture and pwnable!
+- 🌱 I’m currently studying Computer Science at Korea University
 - 💞️ I’m looking forward to collaborate with anyone :)
 - 📫 How to reach me : sts08015@korea.ac.kr
 
