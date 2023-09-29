@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sts08015
-- 👀 I’m interested in computer architecture and pwnable!
-- 🌱 I’m currently studying Computer Science at Korea University
-- 💞️ I’m looking forward to collaborate with anyone :)
+- 👀 I’m interested in Deep learning accelerators, Interconnection Networks, and pwnable!
+- 🌱 I’m currently a senior undergrad majoring in Cyber Security at Korea University. Future grad student at [CSNL KAIST](http://icn.kaist.ac.kr/) and will be supervised by prof. John Kim
+- 💞️ I’m looking forward to collaborate with anyone who meets with my interest :)
 - 📫 How to reach me : sts08015@korea.ac.kr
 
 <!---
