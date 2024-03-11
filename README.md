@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning Accelerators, Interconnection Networks, and Pwnable!
 - 🌱 I’m currently a masters student at [CSNL KAIST](http://icn.kaist.ac.kr/)
 - 💞️ I’m looking forward to collaborate with anyone who meets with my interest :)
-- 📫 How to reach me : sts08015@korea.ac.kr
+- 📫 How to reach me : dk.lim@kaist.ac.kr
 
 <!---
 sts08015/sts08015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
