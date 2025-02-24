@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sts08015
 - 👀 I’m interested in Deep Learning Accelerators, Interconnection Networks, and Pwnable!
-- 🌱 I’m currently a masters student at [CSNL KAIST](http://icn.kaist.ac.kr/)
+- 🌱 I’m currently a PhD student at [CSNL KAIST](http://icn.kaist.ac.kr/)
 - 💞️ I’m looking forward to collaborate with anyone who meets with my interest :)
 - 📫 How to reach me : dk.lim@kaist.ac.kr
 
